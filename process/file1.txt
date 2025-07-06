@@ -1,0 +1,1 @@
+I am pushing these strings to file from printf function by changing FD of stdout with file FD

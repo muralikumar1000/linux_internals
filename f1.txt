@@ -1,0 +1,19 @@
+total 88
+-rw-rw-r-- 1 lucifer lucifer   469 Oct  8 04:21 010_exec.c
+-rw-rw-r-- 1 lucifer lucifer   220 Oct  8 04:21 01_getpid.c
+-rw-rw-r-- 1 lucifer lucifer  1002 Oct  8 04:21 02_process_system.c
+-rw-rw-r-- 1 lucifer lucifer   942 Oct  8 04:21 03_process_fork.c
+-rw-rw-r-- 1 lucifer lucifer   923 Oct  8 04:21 04_process_multiple_fork.c
+-rw-rw-r-- 1 lucifer lucifer   578 Oct  8 04:21 05_fork.c
+-rw-rw-r-- 1 lucifer lucifer   748 Oct  8 04:41 06_fork.c
+-rw-rw-r-- 1 lucifer lucifer  1714 Oct  8 04:21 07_process_pid_ppid.c
+-rw-rw-r-- 1 lucifer lucifer   672 Oct  8 04:21 08_orphan.c
+-rw-rw-r-- 1 lucifer lucifer   734 Oct  8 04:21 09_zombie.c
+-rw-rw-r-- 1 lucifer lucifer  1274 Oct  8 06:21 1pipe-2related.c
+-rwxrwxr-x 1 lucifer lucifer 17056 Oct  8 06:21 a.out
+-rw-rw-r-- 1 lucifer lucifer   357 Oct  8 04:50 exec.c
+-rw-rw-r-- 1 lucifer lucifer   231 Oct  8 04:25 exec_demo.c
+-rw-rw-r-- 1 lucifer lucifer   303 Oct  8 04:49 execlp.c
+-rw-rw-r-- 1 lucifer lucifer   340 Oct  8 04:52 execv.c
+-rw-rw-r-- 1 lucifer lucifer   336 Oct  8 04:53 execvp.c
+-rw-rw-r-- 1 lucifer lucifer  1102 Oct  8 06:19 f1.txt
